@@ -16,4 +16,4 @@ This is a simple text-based Hangman game built using Python as part of the CodeA
 2. Run: python hangman.py
 
 ## 📌 Author
-Your Name
+Mohd Saqlain Hussain
